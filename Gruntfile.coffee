@@ -64,7 +64,7 @@ module.exports = (grunt) ->
             # 'vendor/bootstrap-sass/js/popover.js'
             # 'vendor/bootstrap-sass/js/scrollspy.js'
             # 'vendor/bootstrap-sass/js/tab.js'
-            # 'vendor/bootstrap-sass/js/tooltip.js'
+            'vendor/bootstrap-sass/js/tooltip.js'
             'vendor/bootstrap-sass/js/transition.js'
             'assets/js/plugins/*.js'
             'assets/js/_*.js'

@@ -121,7 +121,7 @@
  * Components w/ JavaScript
  */
 // @import "bootstrap-sass/lib/modals";
-// @import "bootstrap-sass/lib/tooltip";
+@import "bootstrap-sass/lib/tooltip";
 // @import "bootstrap-sass/lib/popovers";
 // @import "bootstrap-sass/lib/carousel";
 
@@ -182,6 +182,7 @@
 
 // @import "";
 
+@import "components/footer";
 
 
 
